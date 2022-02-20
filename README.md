@@ -7,8 +7,8 @@ The purpose of this project is analysisng New York Citi Bike data and present it
 ### Results 
 [link to dashboard](https://public.tableau.com/app/profile/princy.patel/viz/CitiBikeChallenge_16445558391580/NYCStory?publish=yes)
 
-##### While the demographics of Des Moines may differ from those of New York City, a quick look at CitiBike riders may provide insight into who bikeshare could appeal to, regardless of location.
-###### Lets first look at Usertype: 
+#### While the demographics of Des Moines may differ from those of New York City, a quick look at CitiBike riders may provide insight into who bikeshare could appeal to, regardless of location.
+##### Lets first look at Usertype: 
  
  ![coustomer type](https://user-images.githubusercontent.com/93439516/154824309-d60b79dc-c6a6-4142-8f6e-e5d8739d2638.png)
  
@@ -24,7 +24,7 @@ The purpose of this project is analysisng New York Citi Bike data and present it
 
  * Above we can see where most popular bike rides staring and ending stations are located. The most active starting places are also among the most active ending locations. This is critical because we need to know if there is an excess or lack of bikes at specific stations over time.  
  
-###### Lets look at popular times when bikes are utilized.
+##### Lets look at popular times when bikes are utilized.
 
  ![Screenshot (26)](https://user-images.githubusercontent.com/93439516/154825272-0f675b8d-721b-433b-907d-7a5b0d7d4807.png)
  
