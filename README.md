@@ -20,34 +20,45 @@ The purpose of this project is analysisng New York Citi Bike data and present it
  * When we break down user type by gender, it shows that males make up majority of the bike user and females make up about quarter of the bike user.
 
 
+
 #### Along with user type it is also important to look at when and where bike riding is utilized more. 
 
 ![Screenshot (18)](https://user-images.githubusercontent.com/93439516/154824977-0b1426a0-9404-4007-80cc-05e29feeaf47.png)
 
  * Above we can see where most popular bike rides staring and ending stations are located. The most active starting places are also among the most active ending locations. This is critical because we need to know if there is an excess or lack of bikes at specific stations over time.  
  
-#### Lets look at popular times when bikes are utilized.
 
+#### Lets look at popular times when bikes are utilized:
+
+ 
  ![Screenshot (26)](https://user-images.githubusercontent.com/93439516/154825272-0f675b8d-721b-433b-907d-7a5b0d7d4807.png)
  
  * From the above image we can see that 5-7 pm is the most popular time for bike riding. 
 
+ 
  ![Screenshot (21)](https://user-images.githubusercontent.com/93439516/154825199-e3bb5907-b199-4243-b003-2f72e25efb36.png)
 
+
  ![Screenshot (20)](https://user-images.githubusercontent.com/93439516/154825196-9d2953c5-90dd-4b01-907d-419e8341aa29.png)
+ 
  
  * Above two images show that the majority of rides are 20 minutes or less, and the vast majority of rides are under an hour. We can also see that this pattern holds true for both men and women.
 
 
 ![Screenshot (22)](https://user-images.githubusercontent.com/93439516/154825508-9f0d24d6-e344-49e0-987d-b290d42f4f9d.png)
 
+
 * The above heatmap reveals a distinct pattern of bicycle use during the morning weekday commute (7-9 a.m.), the evening weekday commute (4-7 p.m.) except on Wednesday nights, and all day on weekends.
+
 
 ![Screenshot (24)](https://user-images.githubusercontent.com/93439516/154825513-aff3837d-e8d5-44dc-9ecb-23bf665e2a11.png)
 
+
 * The heatmap above illustrates that the usage pattern is consistent regardless of gender, despite the fact that the overall number of males is significantly higher.
 
+
 ![Screenshot (23)](https://user-images.githubusercontent.com/93439516/154825511-225be70d-e803-4e66-937a-5ee49ef1dfeb.png)
+
 
 * The heatmap above highlights the following points: Riders' gender is typically unclear, and weekend usage is more evenly split between subscribers and customers. Subscribers are usually male and are the majority of weekday riders.
 
