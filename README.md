@@ -1,8 +1,8 @@
-# bikesharing
+# Bikesharing
 M. 14
 
 ### Overview of the analysis
-The purpose of this project is analysisng New York Citi Bike data and present it using data visualization tool to investors interested in starting a bikeshare program in Des Moines, Iowa.
+The purpose of this project is analysing New York Citi Bike data and present it using data visualization tool to investors interested in starting a bikeshare program in Des Moines, Iowa.
 
 ### Results 
 [link to dashboard](https://public.tableau.com/app/profile/princy.patel/viz/CitiBikeChallenge_16445558391580/NYCStory?publish=yes)
